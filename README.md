@@ -6,7 +6,7 @@ InputFinder find all input fields
 ```
 git clone https://github.com/rix4uni/InputFinder.git
 cd InputFinder
-#pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Example usages
